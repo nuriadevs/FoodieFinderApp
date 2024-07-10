@@ -64,10 +64,6 @@ class FoodSearchViewModel  @Inject constructor(private val repository: GetFoodUs
                     _state.value = RecipeListState(isLoading = true)
                 }
 
-                is Resource.Error -> TODO()
-                is Resource.Loading -> TODO()
-                is Resource.Success -> TODO()
-                else -> {}
             }
         }.launchIn(viewModelScope)
     }
