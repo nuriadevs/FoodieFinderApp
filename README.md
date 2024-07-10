@@ -1,4 +1,4 @@
-![foodiefindericon](https://github.com/nuriadevs/nuriadevs/assets/78706031/75aa7706-cc6e-4ac6-97de-ac2c4ae6eb86 =200x200)
+![foodiefindericon](https://github.com/nuriadevs/nuriadevs/assets/78706031/75aa7706-cc6e-4ac6-97de-ac2c4ae6eb86)
 
 # Foodie Finder 
 
