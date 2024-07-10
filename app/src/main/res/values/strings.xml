@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Foodie Finder</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="welcome_append">Welcome </string>
+    <string name="phrase_cook">What you want to cook today?</string>
+    <string name="update_success">User updated successfully</string>
+    <string name="loginAccount">Login to your account</string>
+    <string name="dontAccount">Don\'t have an account?</string>
+    <string name="name">Name</string>
+    <string name="display_name">Display Name</string>
+    <string name="no_name">Display name cannot be empty</string>
+    <string name="update_progile">Update your profile</string>
+    <string name="save">Save</string>
+    <string name="signUp">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="error">Error</string>
+    <string name="output">Output</string>
+    <string name="image">Image</string>
+    <string name="back_icon">Back icon</string>
+    <string name="email_icon">Email icon</string>
+    <string name="search_icon">Search icon</string>
+    <string name="close_icon">Close icon</string>
+    <string name="history_icon">History icon</string>
+    <string name="favorite_icon">Favorite icon</string>
+    <string name="password_icon">Password icon</string>
+    <string name="chef_icon">Chef icon</string>
+    <string name="restaurant_icon">Restaurant icon</string>
+    <string name="link_icon">Link icon</string>
+    <string name="delete_icon">Delete icon</string>
+
+
+   <string name="confirm_logout">Confirm logout</string>
+    <string name="text_logout">Are you sure you want to exit the application?</string>
+
+    <string name="password_show">Show password</string>
+    <string name="password_hide">Hide password</string>
+    <string name="person_icon">Person icon</string>">
+    <string name="register">Register</string>">
+    <string name="calories">Calories</string>">
+    <string name="cuisine"> cuisine</string>">
+    <string name="avatar">Avatar</string>">
+    <string name="photo">Photo</string>">
+    <string name="main_ingredients">Main Ingredients</string>
+    <string name="flatware">Flatware</string>
+
+    <string name="clear_history">clear all history</string>">
+    <string name="search_by_recipe">Search by recipes</string>
+    <string name="app_phrase">What recipe are you looking for?</string>
+    <string name="home_phrase">It\'s a pleasure to see you again.</string>
+    <string name="createAccount">Create your account now</string>
+    <string name="getStarted">Get Started!</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="explore">Search</string>
+    <string name="password">Password</string>
+    <string name="pass_not_match">Passwords do not match</string>">
+    <string name="confirm_password">Confirm Password</string>
+
+
+    <string name="how_cook">How to cook?</string>
+    <string name="no_favorites">No favorites recipes</string>
+    <string name="my_favorites">My favorite recipes</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="app_description">App Description</string>
+    <string name="description_text">Foodie Finder is a mobile application to help you search recipes and to know their nutrition facts.</string>
+    <string name="app_key">Key Features</string>
+    <string name="app_key_text_1">Search for all types of recipes.</string>
+    <string name="app_key_text_2">Save and create a list of favorites recipes.</string>
+    <string name="app_system">System Requirements</string>
+    <string name="app_system_text_1">Mobile device running Android.</string>
+    <string name="app_system_text_2">Internet connection to sync data and access online features.</string>
+    <string name="app_dev_info">Developer Info</string>
+    <string name="app_dev_text">This app is a demo to showcase my work.</string>
+
+
+    <string name="confirm_deletion">Confirm Deletion</string>
+    <string name="text_deletion">Are you sure you want to delete this recipe from your favorites?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="clic_cook">Click to cook it</string>
+
+</resources>

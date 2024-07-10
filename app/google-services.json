@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793493529556",
+    "project_id": "foodiefinder-d6477",
+    "storage_bucket": "foodiefinder-d6477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793493529556:android:14b8bc87344568e6bf2c41",
+        "android_client_info": {
+          "package_name": "com.example.foodiefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAccc1gIO9IgXgfkOWoizZf9Y3jceyjd2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
