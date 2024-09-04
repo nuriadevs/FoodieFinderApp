@@ -21,7 +21,7 @@
 * Visutal device 28/30
 
 ### Splash
-![splah](docs/splash.jpg)
+![splah](docs/splah.jpg)
 
 
 ### Login
